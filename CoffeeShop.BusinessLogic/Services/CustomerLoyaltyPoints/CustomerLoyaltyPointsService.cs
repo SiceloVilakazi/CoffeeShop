@@ -24,7 +24,7 @@ namespace CoffeeShop.BusinessLogic.Services.CustomerLoyaltyPoints
         }
 
         /// <summary>
-        /// adds new customer loyalty points
+        /// Adds new customer loyalty points
         /// </summary>
         /// <param name="customerId"></param>
         /// <param name="points"></param>
